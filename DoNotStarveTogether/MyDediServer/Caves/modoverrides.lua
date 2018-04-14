@@ -2,6 +2,8 @@ return {
 	["workshop-347079953"] = { enabled = true }, --食物/药品信息显示.
 	["workshop-365119238"] = { enabled = true }, --智能烹饪锅.
 	["workshop-351325790"] = { enabled = true }, --按网格摆放.
+	["workshop-362191380"] = { enabled = true }, --高ping战士保护器.
+	["workshop-441957490"] = { enabled = true }, --人物Wise Wolf.
 	--["workshop-367546858"] = { enabled = true }, --中文语言包.
 	--["workshop-374550642"] = { enabled = true }, --改变物品堆叠上线.
 	--["workshop-375850593"] = { enabled = true }, --增加一个背包和一个防具槽.
