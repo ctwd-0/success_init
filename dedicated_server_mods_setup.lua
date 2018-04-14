@@ -14,6 +14,7 @@ ServerModSetup("351325790") --按网格摆放.
 ServerModSetup("365119238") --智能烹饪锅.
 ServerModSetup("362191380") --高ping战士保护器.
 ServerModSetup("441957490") --人物Wise Wolf.
+ServerModSetup("623749604") --可以建立大容量地窖.
 --ServerModSetup("367546858") --中文语言包.
 --ServerModSetup("374550642") --改变物品堆叠上线.
 --ServerModSetup("375850593") --增加一个背包和一个防具槽.
