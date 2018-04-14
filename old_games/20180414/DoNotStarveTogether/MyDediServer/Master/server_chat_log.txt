@@ -1,0 +1,43 @@
+[00:01:48]: [Join Announcement] ctwd
+[00:03:12]: [Leave Announcement] ctwd
+[00:13:29]: [Join Announcement] ctwd
+[00:13:39]: [Say] (KU_zJHvb-fh) ctwd: 啦啦啦
+[00:14:46]: [Leave Announcement] ctwd
+[00:15:43]: [Join Announcement] DouglasQi
+[00:15:47]: [Join Announcement] ctwd
+[00:15:59]: [Say] (KU_zJHvb-fh) ctwd: 啦啦啦
+[00:16:17]: [Say] (KU_SIyU7oxZ) DouglasQi: lalala
+[00:43:09]: [Join Announcement] wangchangxu11
+[01:03:19]: [Join Announcement] SiriusLK
+[01:10:48]: [Join Announcement] Chaofan
+[01:15:36]: [Death Announcement] Chaofan was killed by Frog. He became a spooky ghost!
+[01:18:06]: [Leave Announcement] Chaofan
+[01:36:34]: [Death Announcement] SiriusLK was killed by Spider. She became a spooky ghost!
+[01:40:28]: [Resurrect Announcement] SiriusLK was resurrected by Touch Stone.
+[01:45:37]: [Leave Announcement] SiriusLK
+[01:46:23]: [Join Announcement] SiriusLK
+[02:17:47]: [Skin Announcement] wangchangxu11 legs_tweed_knickerbocker_tan_grass
+[02:25:09]: [Join Announcement] LBY
+[02:27:55]: [Leave Announcement] DouglasQi
+[02:28:52]: [Join Announcement] DouglasQi
+[02:36:21]: [Leave Announcement] DouglasQi
+[02:40:27]: [Join Announcement] DouglasQi
+[02:45:14]: [Leave Announcement] DouglasQi
+[02:46:13]: [Join Announcement] DouglasQi
+[02:56:27]: [Skin Announcement] LBY hand_shortgloves_black_scribble
+[03:02:22]: [Leave Announcement] SiriusLK
+[03:03:24]: [Join Announcement] SiriusLK
+[03:03:34]: [Skin Announcement] DouglasQi body_buttons_black_jet
+[03:04:28]: [Join Announcement] Chaofan
+[03:05:21]: [Leave Announcement] Chaofan
+[03:05:44]: [Leave Announcement] wangchangxu11
+[03:05:48]: [Leave Announcement] SiriusLK
+[03:05:54]: [Leave Announcement] ctwd
+[03:06:15]: [Leave Announcement] DouglasQi
+[03:06:38]: [Leave Announcement] LBY
+[03:07:14]: [Join Announcement] DouglasQi
+[03:07:48]: [Leave Announcement] DouglasQi
+[03:07:58]: [Join Announcement] ctwd
+[03:07:58]: [Join Announcement] SiriusLK
+[03:08:44]: [Leave Announcement] SiriusLK
+[03:09:40]: [Leave Announcement] ctwd
