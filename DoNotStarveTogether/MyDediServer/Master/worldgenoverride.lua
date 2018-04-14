@@ -1,11 +1,11 @@
 return {
     override_enabled = true,
-    preset = "DST_CAVE",                -- "SURVIVAL_TOGETHER", "MOD_MISSING", "SURVIVAL_TOGETHER_CLASSIC", "SURVIVAL_DEFAULT_PLUS", "COMPLETE_DARKNESS", "DST_CAVE", "DST_CAVE_PLUS"
+    preset = "SURVIVAL_TOGETHER",       -- "SURVIVAL_TOGETHER", "MOD_MISSING", "SURVIVAL_TOGETHER_CLASSIC", "SURVIVAL_DEFAULT_PLUS", "COMPLETE_DARKNESS", "DST_CAVE", "DST_CAVE_PLUS"
     overrides = {
-        -- defalut is "never", "rare", "default", "often", "always"
+        -- default is "never", "rare", "default", "often", "always"
   
         -- MISC
-        task_set = "cave_default",      -- "classic", "default", "cave_default"
+        task_set = "default",           -- "classic", "default", "cave_default"
         start_location = "default",     -- "caves", "default", "plus", "darkness"
         world_size = "default",         -- "small", "medium", "default", "huge"
         branching = "default",          -- "never", "least", "default", "most"
