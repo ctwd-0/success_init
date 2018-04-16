@@ -11,7 +11,7 @@ start_overworld="./dontstarve_dedicated_server_nullrenderer -cluster MyDediServe
 #Start or Restart the server
 
 cd ${name_folder}
-screen -dr dst_1 -X -S quit
-screen -dmS dst_1 ${start_world}
-screen -dr dst_2 -X -S quit
-screen -dmS dst_21 ${start_overworld}
+sudo screen -dr dst_1 -X -S quit
+sudo screen -dmS dst_1 ${start_world}
+sudo screen -dr dst_2 -X -S quit
+sudo screen -dmS dst_21 ${start_overworld}
