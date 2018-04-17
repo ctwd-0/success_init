@@ -1,0 +1,103 @@
+[00:03:29]: [Join Announcement] ctwd
+[00:05:38]: [Vote Announcement] rollback passed
+[00:14:13]: [Vote Announcement] rollback passed
+[00:14:46]: [Vote Announcement] rollback passed
+[00:15:17]: [Roll Announcement] (KU_zJHvb-fh) ctwd 58 (1-100)
+[00:15:22]: [Vote Announcement] rollback passed
+[00:34:58]: [Death Announcement] ctwd was killed by Terrorbeak. She became a spooky ghost!
+[00:35:04]: [Vote Announcement] rollback passed
+[00:35:36]: [Leave Announcement] ctwd
+[00:41:56]: [Join Announcement] ctwd
+[00:42:02]: [Vote Announcement] rollback passed
+[00:44:56]: [Vote Announcement] rollback passed
+[00:45:28]: [Vote Announcement] rollback passed
+[00:56:24]: [Vote Announcement] rollback passed
+[01:07:33]: [Death Announcement] ctwd was killed by Freezing. She became a spooky ghost!
+[01:07:43]: [Vote Announcement] rollback passed
+[01:11:15]: [Leave Announcement] ctwd
+[01:50:09]: [Join Announcement] ctwd
+[01:50:20]: [Vote Announcement] rollback passed
+[01:50:51]: [Vote Announcement] rollback passed
+[02:15:48]: [Death Announcement] ctwd was killed by Pengull. She became a spooky ghost!
+[02:15:58]: [Vote Announcement] rollback passed
+[02:39:17]: [Skin Announcement] ctwd body_tweedvest_blue_lightning
+[02:52:32]: [Vote Announcement] rollback passed
+[02:54:14]: [Vote Announcement] rollback passed
+[02:59:54]: [Vote Announcement] rollback passed
+[03:06:43]: [Death Announcement] ctwd was killed by Crawling Horror. She became a spooky ghost!
+[03:06:50]: [Vote Announcement] rollback passed
+[03:09:14]: [Leave Announcement] ctwd
+[03:10:17]: [Join Announcement] ctwd
+[04:08:54]: [Vote Announcement] rollback passed
+[04:12:21]: [Death Announcement] ctwd was killed by Mosling. She became a spooky ghost!
+[04:12:25]: [Vote Announcement] rollback passed
+[05:04:24]: [Join Announcement] DouglasQi
+[05:06:36]: [Say] (KU_SIyU7oxZ) DouglasQi: 需要建造雪球机以及避雷针……
+[05:06:53]: [Say] (KU_zJHvb-fh) ctwd: 嗯。。
+[05:07:16]: [Say] (KU_zJHvb-fh) ctwd: 春季boss有多少只啊。。我打了2只了，还发现了1只。
+[05:07:34]: [Say] (KU_SIyU7oxZ) DouglasQi: 不止一只？？惊讶
+[05:07:43]: [Say] (KU_SIyU7oxZ) DouglasQi: 上边有一只
+[05:08:23]: [Say] (KU_SIyU7oxZ) DouglasQi: 真强
+[05:10:08]: [Say] (KU_SIyU7oxZ) DouglasQi: 我去弄石头
+[05:10:20]: [Say] (KU_zJHvb-fh) ctwd: 好。
+[05:16:38]: [Say] (KU_SIyU7oxZ) DouglasQi: 两只树精
+[05:17:01]: [Say] (KU_zJHvb-fh) ctwd: 在追你么。
+[05:21:54]: [Say] (KU_SIyU7oxZ) DouglasQi: 有雨伞地窖里
+[05:23:30]: [Say] (KU_SIyU7oxZ) DouglasQi: 有金吗
+[05:29:52]: [Say] (KU_SIyU7oxZ) DouglasQi: 再造一个科学机器
+[05:30:14]: [Say] (KU_zJHvb-fh) ctwd: 放哪里。
+[05:30:28]: [Say] (KU_SIyU7oxZ) DouglasQi: 随便吧
+[05:32:36]: [Say] (KU_SIyU7oxZ) DouglasQi: 火灭了……忘了雪球机了……
+[05:33:02]: [Say] (KU_zJHvb-fh) ctwd: 我之前也犯过这个错误
+[05:45:06]: [Say] (KU_SIyU7oxZ) DouglasQi: 我去吃饭了
+[05:45:41]: [Say] (KU_zJHvb-fh) ctwd: 好。
+[05:45:58]: [Say] (KU_SIyU7oxZ) DouglasQi: 吸热篝火被弄走了？
+[05:46:16]: [Say] (KU_zJHvb-fh) ctwd: 没造吧。
+[05:46:26]: [Say] (KU_SIyU7oxZ) DouglasQi: 我造了
+[05:48:04]: [Say] (KU_SIyU7oxZ) DouglasQi: 给我石头2
+[05:49:08]: [Say] (KU_SIyU7oxZ) DouglasQi: 尴尬 忘了吸热萤火也会被灭了
+[05:49:35]: [Say] (KU_SIyU7oxZ) DouglasQi: 拜拜
+[05:49:36]: [Say] (KU_zJHvb-fh) ctwd: 夏天了？
+[05:49:42]: [Leave Announcement] DouglasQi
+[05:59:02]: [Join Announcement] DouglasQi
+[06:02:57]: [Say] (KU_SIyU7oxZ) DouglasQi: 我去地下挖矿了
+[06:11:39]: [Say] (KU_SIyU7oxZ) DouglasQi: 上边是白天还是黑夜
+[06:11:51]: [Say] (KU_zJHvb-fh) ctwd: 晚上
+[06:12:12]: [Say] (KU_SIyU7oxZ) DouglasQi: 我用采木头吗
+[06:12:19]: [Say] (KU_zJHvb-fh) ctwd: 不用.
+[06:13:06]: [Say] (KU_zJHvb-fh) ctwd: 天亮了。
+[06:13:25]: [Say] (KU_SIyU7oxZ) DouglasQi: 需要金子么 我踩了22块金子 54块石头
+[06:13:38]: [Say] (KU_SIyU7oxZ) DouglasQi: 不需要 我就在地下多玩一会儿
+[06:13:46]: [Say] (KU_zJHvb-fh) ctwd: 不用。
+[06:25:00]: [Say] (KU_SIyU7oxZ) DouglasQi: 人民币学长不吃饭的吗
+[06:25:13]: [Say] (KU_zJHvb-fh) ctwd: 一会吃。
+[06:36:26]: [Say] (KU_SIyU7oxZ) DouglasQi: 帮我举个火把
+[06:36:45]: [Say] (KU_SIyU7oxZ) DouglasQi: 不用了
+[06:40:12]: [Say] (KU_zJHvb-fh) ctwd: 旁边那两个坑是啥。。
+[06:40:25]: [Say] (KU_SIyU7oxZ) DouglasQi: 蚁狮的坑
+[06:41:00]: [Say] (KU_SIyU7oxZ) DouglasQi: 跟猪王一样，不是生物，不送礼就有坑
+[06:41:11]: [Say] (KU_zJHvb-fh) ctwd: 好吧。。
+[06:41:26]: [Say] (KU_SIyU7oxZ) DouglasQi: 得去弄点燃料了
+[06:41:30]: [Say] (KU_zJHvb-fh) ctwd: 地下的？
+[06:41:36]: [Say] (KU_SIyU7oxZ) DouglasQi: 雪球机需要燃料
+[06:41:44]: [Say] (KU_SIyU7oxZ) DouglasQi: 不是地下 是沙漠
+[06:42:42]: [Say] (KU_SIyU7oxZ) DouglasQi: 地下不用担心热
+[06:42:55]: [Say] (KU_zJHvb-fh) ctwd: 好吧。没玩过地下。
+[06:43:13]: [Say] (KU_SIyU7oxZ) DouglasQi: 地下有一大堆怪
+[06:43:15]: [Say] (KU_zJHvb-fh) ctwd: 燧石和石头后期得从地下搞是吧。
+[06:43:27]: [Say] (KU_SIyU7oxZ) DouglasQi: 我觉得是
+[06:44:17]: [Say] (KU_zJHvb-fh) ctwd: 你吃饭了么。
+[06:44:18]: [Say] (KU_SIyU7oxZ) DouglasQi: 吃完饭可以加一个mod
+[06:44:26]: [Say] (KU_SIyU7oxZ) DouglasQi: show me
+[06:44:42]: [Say] (KU_SIyU7oxZ) DouglasQi: 显示一些信息的一个mod
+[06:44:45]: [Say] (KU_zJHvb-fh) ctwd: 一会我吃饭去了。吃完饭9点和lk他们继续昨天的进度。
+[06:44:49]: [Say] (KU_SIyU7oxZ) DouglasQi: 拜拜
+[06:44:58]: [Say] (KU_zJHvb-fh) ctwd: 好。
+[06:45:01]: [Say] (KU_SIyU7oxZ) DouglasQi: 那我下了？
+[06:45:15]: [Say] (KU_zJHvb-fh) ctwd: 其实下午只是测试服务器延迟的。。
+[06:45:34]: [Say] (KU_SIyU7oxZ) DouglasQi: 还是之前的那个服务器？
+[06:45:45]: [Say] (KU_zJHvb-fh) ctwd: 不。腾讯的。
+[06:47:16]: [Say] (KU_SIyU7oxZ) DouglasQi: 那我下了啊
+[06:47:26]: [Say] (KU_zJHvb-fh) ctwd: 嗯。
+[06:47:30]: [Leave Announcement] DouglasQi
+[07:00:19]: [Leave Announcement] ctwd
