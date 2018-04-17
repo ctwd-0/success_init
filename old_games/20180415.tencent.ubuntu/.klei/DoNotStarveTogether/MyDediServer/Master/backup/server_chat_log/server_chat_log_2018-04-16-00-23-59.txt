@@ -1,0 +1,2 @@
+[00:02:40]: [Join Announcement] ctwd
+[00:03:03]: [Leave Announcement] ctwd
