@@ -27,6 +27,7 @@ ServerModSetup("458587300") --告示牌传送.
 ServerModSetup("447092740") --更多动作.
 ServerModSetup("572538624") --中文增强.
 ServerModSetup("623749604") --可以建立大容量地窖.
+ServerModSetup("666155465") --显示各种信息.
 ServerModSetup("666723837") --角色道士温宇.
 ServerModSetup("831523966") --999堆叠.
 ServerModSetup("1207269058") --简单的血条显示 \n附带伤害显示

@@ -17,6 +17,7 @@ return {
 	["workshop-447092740"] = { enabled = true }, --更多动作.
 	["workshop-572538624"] = { enabled = true }, --中文增强.
 	["workshop-623749604"] = { enabled = true }, --可以建立大容量地窖.
+	["workshop-666155465"] = { enabled = true }, --显示各种信息.
 	["workshop-666723837"] = { enabled = true }, --角色道士温宇.
 	["workshop-831523966"] = { enabled = true }, --999堆叠.
 	["workshop-1207269058"] = { enabled = true }, --简单的血条显示 \n附带伤害显示
