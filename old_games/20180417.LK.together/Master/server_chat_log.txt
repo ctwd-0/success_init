@@ -1,0 +1,16 @@
+[00:05:47]: [Join Announcement] DouglasQi
+[00:05:50]: [Join Announcement] ctwd
+[00:06:22]: [Join Announcement] SiriusLK
+[00:07:15]: [Join Announcement] wangchangxu11
+[00:07:24]: [Vote Announcement] rollback passed
+[00:08:39]: [Leave Announcement] DouglasQi
+[00:09:36]: [Join Announcement] DouglasQi
+[00:30:15]: [Skin Announcement] ctwd body_buttons_white_ghost
+[01:10:22]: [Death Announcement] DouglasQi was killed by Batilisk. She became a spooky ghost!
+[01:11:18]: [Resurrect Announcement] DouglasQi was resurrected by Touch Stone.
+[01:37:42]: [Leave Announcement] ctwd
+[01:38:18]: [Join Announcement] ctwd
+[02:05:50]: [Leave Announcement] DouglasQi
+[02:06:19]: [Leave Announcement] wangchangxu11
+[02:07:26]: [Leave Announcement] ctwd
+[02:07:28]: [Leave Announcement] SiriusLK
