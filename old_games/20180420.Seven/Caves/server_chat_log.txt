@@ -1,0 +1,137 @@
+[00:02:26]: [Join Announcement] ctwd
+[00:02:26]: [Join Announcement] DouglasQi
+[00:07:29]: [Say] (KU_SIyU7oxZ) DouglasQi: 我没有防具
+[00:07:36]: [Say] (KU_SIyU7oxZ) DouglasQi: 你打狗
+[00:07:46]: [Say] (KU_zJHvb-fh) ctwd: o
+[00:09:42]: [Say] (KU_SIyU7oxZ) DouglasQi: 给我造个头盔被 或者你有猪皮吗
+[00:10:26]: [Join Announcement] chonghao09
+[00:10:47]: [Say] (KU_SIyU7oxZ) DouglasQi: 惊现小号学长？？
+[00:11:03]: [Say] (KU_fJpFAwM-) chonghao09: 啊哈！
+[00:33:47]: [Skin Announcement] DouglasQi legs_skirt_basic_brown_sepia
+[00:34:10]: [Say] (KU_SIyU7oxZ) DouglasQi: 我去地下建家了
+[00:34:18]: [Say] (KU_zJHvb-fh) ctwd: jiayou
+[00:37:17]: [Say] (KU_fJpFAwM-) chonghao09: 找半天终于找到怎么说话了。。。
+[00:39:59]: [Say] (KU_fJpFAwM-) chonghao09: 感谢。。。
+[00:40:12]: [Say] (KU_zJHvb-fh) ctwd: 反正是我造的虐。。
+[00:40:29]: [Say] (KU_SIyU7oxZ) DouglasQi: 你们干啥了
+[00:40:49]: [Say] (KU_zJHvb-fh) ctwd: 我引出了战斗蜘蛛，导致小号学长被打。
+[00:40:56]: [Say] (KU_fJpFAwM-) chonghao09: 作为一个脆皮
+[00:41:06]: [Say] (KU_fJpFAwM-) chonghao09: 很慌张
+[00:48:55]: [Skin Announcement] ctwd hand_drivergloves_white_ivory
+[00:52:44]: [Say] (KU_fJpFAwM-) chonghao09: 哇传送好厉害
+[00:53:22]: [Say] (KU_fJpFAwM-) chonghao09: 妈呀猪王这里也有boss
+[00:59:36]: [Skin Announcement] chonghao09 body_silk_eveningrobe_red_rump
+[01:02:12]: [Say] (KU_SIyU7oxZ) DouglasQi: 你们制造雪球机了么
+[01:02:25]: [Say] (KU_SIyU7oxZ) DouglasQi: 还有吸热篝火
+[01:02:28]: [Say] (KU_zJHvb-fh) ctwd: 马上就造。
+[01:03:59]: [Say] (KU_fJpFAwM-) chonghao09: 家里怎么长了个花苞？
+[01:04:11]: [Say] (KU_fJpFAwM-) chonghao09: 是你们种的么？
+[01:04:14]: [Say] (KU_SIyU7oxZ) DouglasQi: 那个得清理掉
+[01:15:04]: [Say] (KU_fJpFAwM-) chonghao09: 咦
+[01:15:12]: [Say] (KU_fJpFAwM-) chonghao09: 为啥砸了？
+[01:15:27]: [Say] (KU_zJHvb-fh) ctwd: 因为放不下雪球机器
+[01:15:48]: [Say] (KU_fJpFAwM-) chonghao09: 原来如此。。。
+[01:20:53]: [Skin Announcement] ctwd body_cardigan_black_jet
+[01:20:57]: [Say] (KU_SIyU7oxZ) DouglasQi: 青蛙雨真恶心
+[01:21:40]: [Say] (KU_fJpFAwM-) chonghao09: 青蛙太可怕了
+[01:21:49]: [Say] (KU_SIyU7oxZ) DouglasQi: 造陷阱吧
+[01:21:49]: [Say] (KU_zJHvb-fh) ctwd: 春天太恶心了。
+[01:23:25]: [Say] (KU_fJpFAwM-) chonghao09: 机智
+[01:25:32]: [Say] (KU_SIyU7oxZ) DouglasQi: 看不到青蛙了家里
+[01:29:24]: [Skin Announcement] chonghao09 legs_skirt_basic_brown_sepia
+[01:37:02]: [Say] (KU_SIyU7oxZ) DouglasQi: 谁有三个木头
+[01:45:49]: [Skin Announcement] DouglasQi feet_sneakers_red_auburn
+[01:46:21]: [Say] (KU_SIyU7oxZ) DouglasQi: 我去地下看看
+[01:48:08]: [Say] (KU_SIyU7oxZ) DouglasQi: 铲掉病怏怏树枝
+[01:48:08]: [Leave Announcement] chonghao09
+[02:04:30]: [Say] (KU_SIyU7oxZ) DouglasQi: 我擦，41个弗兰食物丢了
+[02:04:45]: [Say] (KU_zJHvb-fh) ctwd: 在我这。
+[02:16:08]: [Say] (KU_zJHvb-fh) ctwd: 刚才差点把自己搞死。
+[02:16:44]: [Say] (KU_zJHvb-fh) ctwd: 从猪王回来，传错位置了。然后去的那个地方牌子被烧掉了。
+[02:16:55]: [Say] (KU_SIyU7oxZ) DouglasQi: ……
+[02:17:06]: [Say] (KU_zJHvb-fh) ctwd: 跑到临近的一个牌子，结果失手又把牌子烧了。
+[02:17:19]: [Say] (KU_SIyU7oxZ) DouglasQi: 对的
+[02:17:29]: [Say] (KU_zJHvb-fh) ctwd: 马上又盖了一个牌子，饥饿不够。。
+[02:17:46]: [Say] (KU_zJHvb-fh) ctwd: 然后天亮了，我过热+饥饿跑回来了。
+[02:17:47]: [Say] (KU_SIyU7oxZ) DouglasQi: 你不需要治疗吗
+[02:18:25]: [Say] (KU_zJHvb-fh) ctwd: 打点蜘蛛就好了。
+[02:27:28]: [Say] (KU_SIyU7oxZ) DouglasQi: 鹅毛扇 瞬间降温
+[02:27:36]: [Say] (KU_zJHvb-fh) ctwd: O
+[02:34:04]: [Say] (KU_SIyU7oxZ) DouglasQi: 啥声音 啊 这么大
+[02:34:11]: [Say] (KU_zJHvb-fh) ctwd: 啊？
+[02:34:13]: [Say] (KU_SIyU7oxZ) DouglasQi: tremor
+[02:35:12]: [Say] (KU_SIyU7oxZ) DouglasQi: 地下有怪物
+[02:35:35]: [Say] (KU_zJHvb-fh) ctwd: 我下去打么
+[02:36:06]: [Say] (KU_SIyU7oxZ) DouglasQi: 打吧 一起下去
+[02:37:24]: [Say] (KU_SIyU7oxZ) DouglasQi: 走啊
+[02:38:00]: [Say] (KU_SIyU7oxZ) DouglasQi: 传送到地下洞穴入口
+[02:41:06]: [Say] (KU_SIyU7oxZ) DouglasQi: 你打吧 我要美学了
+[02:42:09]: [Say] (KU_SIyU7oxZ) DouglasQi: 没了吗
+[02:42:25]: [Say] (KU_zJHvb-fh) ctwd: 应该没了。
+[02:42:33]: [Say] (KU_SIyU7oxZ) DouglasQi: 那应该就没事了
+[02:42:43]: [Say] (KU_SIyU7oxZ) DouglasQi: 那边有蜘蛛营地
+[02:44:24]: [Say] (KU_SIyU7oxZ) DouglasQi: 又有了
+[02:45:06]: [Say] (KU_SIyU7oxZ) DouglasQi: 你睡觉吗
+[02:45:27]: [Say] (KU_zJHvb-fh) ctwd: 不需要。
+[02:45:34]: [Skin Announcement] ctwd legs_pants_basic_tan_cream
+[02:45:45]: [Skin Announcement] DouglasQi feet_formal_stiletto_black_scribble
+[02:46:34]: [Say] (KU_SIyU7oxZ) DouglasQi: 我探索了好大一片地图
+[02:46:47]: [Say] (KU_zJHvb-fh) ctwd: 我暂时看不到。
+[02:47:01]: [Say] (KU_SIyU7oxZ) DouglasQi: 我记得能够分享地图吧
+[02:48:37]: [Say] (KU_SIyU7oxZ) DouglasQi: 我会了
+[02:48:45]: [Say] (KU_zJHvb-fh) ctwd: 啊？
+[02:49:20]: [Say] (KU_SIyU7oxZ) DouglasQi: 有木头吗
+[02:49:27]: [Say] (KU_SIyU7oxZ) DouglasQi: woxuyao 11ge
+[02:50:05]: [Say] (KU_zJHvb-fh) ctwd: 我日。。
+[02:51:49]: [Say] (KU_SIyU7oxZ) DouglasQi: 你去看看
+[02:52:01]: [Say] (KU_SIyU7oxZ) DouglasQi: 那个制图着
+[02:52:18]: [Say] (KU_SIyU7oxZ) DouglasQi: 你看看这个
+[02:52:44]: [Say] (KU_zJHvb-fh) ctwd: 没用。。
+[02:52:46]: [Say] (KU_SIyU7oxZ) DouglasQi: 能共享吗
+[02:53:02]: [Say] (KU_SIyU7oxZ) DouglasQi: 我查查咋用
+[02:53:46]: [Say] (KU_SIyU7oxZ) DouglasQi: 得用杀曹植和羽毛
+[02:53:51]: [Say] (KU_SIyU7oxZ) DouglasQi: 制作地图
+[02:54:41]: [Say] (KU_SIyU7oxZ) DouglasQi: 我会去拿羽毛和杀曹植
+[03:05:27]: [Say] (KU_SIyU7oxZ) DouglasQi: 这是地图
+[03:05:35]: [Say] (KU_zJHvb-fh) ctwd: 好。
+[03:05:41]: [Say] (KU_SIyU7oxZ) DouglasQi: 现在应该可以了
+[03:08:02]: [Say] (KU_zJHvb-fh) ctwd: 去地下？
+[03:08:09]: [Say] (KU_SIyU7oxZ) DouglasQi: 好
+[03:09:21]: [Say] (KU_SIyU7oxZ) DouglasQi: 有地图了吗
+[03:09:30]: [Say] (KU_zJHvb-fh) ctwd: 有了。
+[03:12:01]: [Say] (KU_SIyU7oxZ) DouglasQi: 石头不缺
+[03:16:04]: [Say] (KU_SIyU7oxZ) DouglasQi: 有岩穴蜘蛛 打么
+[03:16:20]: [Say] (KU_zJHvb-fh) ctwd: 正在打。
+[03:16:40]: [Say] (KU_SIyU7oxZ) DouglasQi: 你打的部不是
+[03:16:50]: [Death Announcement] ctwd was killed by Spider Queen. She became a spooky ghost!
+[03:17:03]: [Say] (KU_SIyU7oxZ) DouglasQi: 我做救赎之心
+[03:17:12]: [Say] (KU_zJHvb-fh) ctwd: 好吧。。怎么办。。浪瞎了。
+[03:17:40]: [Say] (KU_SIyU7oxZ) DouglasQi: 我去打个纤体
+[03:18:43]: [Say] (KU_SIyU7oxZ) DouglasQi: 你在哪
+[03:18:51]: [Resurrect Announcement] ctwd was resurrected by DouglasQi.
+[03:20:11]: [Say] (KU_SIyU7oxZ) DouglasQi: niqu jiandongxi
+[03:21:34]: [Say] (KU_zJHvb-fh) ctwd: 没火。
+[03:22:15]: [Say] (KU_SIyU7oxZ) DouglasQi: 你去捡东西吧
+[03:22:26]: [Death Announcement] DouglasQi was killed by Spider Queen. She became a spooky ghost!
+[03:22:48]: [Resurrect Announcement] DouglasQi was resurrected by Florid Postern.
+[03:24:29]: [Say] (KU_SIyU7oxZ) DouglasQi: 一会儿我得回去做avg实验药
+[03:26:31]: [Say] (KU_SIyU7oxZ) DouglasQi: 这个触手暂时不要打 挺难打的
+[03:30:19]: [Say] (KU_SIyU7oxZ) DouglasQi: 你谁较吧
+[03:31:49]: [Say] (KU_SIyU7oxZ) DouglasQi: 给我造个toujui
+[03:31:55]: [Say] (KU_SIyU7oxZ) DouglasQi: 头盔
+[03:34:57]: [Say] (KU_SIyU7oxZ) DouglasQi: 打触手不
+[03:35:08]: [Say] (KU_zJHvb-fh) ctwd: 打呗。
+[03:37:27]: [Say] (KU_zJHvb-fh) ctwd: 没药了。。。
+[03:40:33]: [Say] (KU_zJHvb-fh) ctwd: 我得回去了。。快死了。。
+[03:42:15]: [Say] (KU_SIyU7oxZ) DouglasQi: 我也马上回去了
+[03:44:28]: [Say] (KU_SIyU7oxZ) DouglasQi: 学长你在哪里
+[03:47:09]: [Say] (KU_SIyU7oxZ) DouglasQi: 有腐烂食物吗
+[03:47:22]: [Say] (KU_zJHvb-fh) ctwd: mei
+[03:53:10]: [Say] (KU_SIyU7oxZ) DouglasQi: you腐烂食物吗
+[03:53:15]: [Say] (KU_zJHvb-fh) ctwd: mei
+[03:54:35]: [Say] (KU_SIyU7oxZ) DouglasQi: 孙老板你啥时候睡觉啊
+[03:54:46]: [Say] (KU_zJHvb-fh) ctwd: 我其实想歇了。
+[03:54:53]: [Say] (KU_SIyU7oxZ) DouglasQi: 那就谢了吧
+[03:55:06]: [Say] (KU_zJHvb-fh) ctwd: 退了啊。
+[03:55:12]: [Leave Announcement] ctwd
+[03:55:23]: [Leave Announcement] DouglasQi

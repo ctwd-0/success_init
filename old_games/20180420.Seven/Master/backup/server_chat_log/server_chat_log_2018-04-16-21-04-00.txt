@@ -1,0 +1,10 @@
+[00:00:59]: [Join Announcement] SiriusLK
+[00:02:34]: [Join Announcement] DouglasQi
+[00:02:47]: [Join Announcement] ctwd
+[00:48:43]: [Skin Announcement] ctwd body_polo_red_higgsbury
+[00:56:52]: [Skin Announcement] DouglasQi hand_shortgloves_black_scribble
+[01:14:11]: [Skin Announcement] SiriusLK body_buttons_green_laurel
+[01:21:28]: [Skin Announcement] ctwd body_buttons_white_ghost
+[01:36:43]: [Leave Announcement] DouglasQi
+[01:46:14]: [Leave Announcement] ctwd
+[01:46:19]: [Leave Announcement] SiriusLK
